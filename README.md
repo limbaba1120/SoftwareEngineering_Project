@@ -1,7 +1,11 @@
 # SoftwareEngineering_Project
 
 ## :octocat: Project
-- (2022.03 ~ 06) Restaurant Reservation System 
+- (2022.03 ~ 06) Restaurant Reservation System
+## ⚙️ 개발 환경
+- Language : HTML5, CSS, SPRING, SPRING JPA
+- IDE : Intellij
+## RESULT
   - 메인화면
   ![image](https://github.com/limbaba1120/SoftwareEngineering_Project/assets/102224840/82a993b8-6590-4576-8b97-2596245f9398)
   - 회원가입
