@@ -2,7 +2,7 @@
 
 ## :octocat: Project
 - (2022.03 ~ 06) Restaurant Reservation System
-## ⚙️ 개발 환경
+## :computer: 개발 환경
 - Language : HTML5, CSS, SPRING, SPRING JPA
 - IDE : Intellij
 ## RESULT
